@@ -1,6 +1,7 @@
 # ai-coloring-pages.com
 AI-Enhanced Coloring Pages 🎨
-Welcome to the GitHub repository for Ai-Coloring-Pages.com, a unique platform where the magic of AI meets the creativity of a collective of expert designers.
+Welcome to the GitHub repository for [AiColoringPages.com](https://ai-coloring-pages.com/)
+, a unique platform where the magic of AI meets the creativity of a collective of expert designers.
 
 About
 At AiColoringPages.com, we believe in the fusion of technology and art. Our platform offers a diverse collection of coloring pages, co-designed by AI algorithms and a team of seasoned designers. From intricate patterns for adults to playful designs for kids, we provide a refreshing take on traditional coloring pages.
